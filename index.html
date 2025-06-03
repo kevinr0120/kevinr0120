@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kevin Rendón - Portafolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        section {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kevin Rendón</h1>
+        <p>Estudiante de Ingeniería de Software<br />
+           Universitaria de Colombia</p>
+    </header>
+
+    <section>
+        <h2>Sobre mí</h2>
+        <p>Soy un estudiante apasionado por el desarrollo de software, interesado en aprender nuevas tecnologías y construir soluciones eficientes mediante la programación.</p>
+    </section>
+
+    <section>
+        <h2>Proyectos</h2>
+        <h3>Actividad: Variables en Python</h3>
+        <p>Una colección de ejercicios básicos con variables en Python, incluyendo operaciones matemáticas, estructuras condicionales, conversiones, y más.</p>
+        <ul>
+            <li>Suma de dos números</li>
+            <li>Conversión de grados Celsius a Fahrenheit</li>
+            <li>Área de un triángulo</li>
+            <li>Par o impar</li>
+            <li>Intercambio de variables</li>
+            <li>Calculadora simple</li>
+            <li>Edad en años, meses y días</li>
+            <li>Encontrar el número mayor</li>
+            <li>Verificar múltiplos</li>
+            <li>Salario con bonificación</li>
+        </ul>
+        <p><strong>Repositorio en GitHub:</strong> 
+           <a href="https://github.com/kevinr0120/kevinr0120" target="_blank">https://github.com/kevinr0120/kevinr0120</a>
+        </p>
+    </section>
+
+    <section>
+        <h2>Contacto</h2>
+        <p>Email: kevinrendon0130@email.com</p>
+        <p>GitHub: <a href="https://github.com/kevinr0120" target="_blank">github.com/kevinr0120</a></p>
+    </section>
+</body>
+</html>
